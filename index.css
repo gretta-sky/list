@@ -157,16 +157,6 @@ button {
   }
 
 
-  @media (max-width: 600px) {
-    .container {
-      width: auto;
-    }
-  }
-  
-  @media (max-width: 400px) {
-    .val {
-      text-align: left;
-    }
   }
   #myUL {
     /* increases these chnages in it.. */
